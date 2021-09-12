@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: nikiforovall
-google_analytics: UA-164555539-1
+google_analytics: 
 title: n+1 IT blog
 
 defaults:
@@ -33,7 +33,7 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://secure.gravatar.com/avatar/e86fa0938976c38907a302ecb208f011
 
-BASE_PATH: https://thearthouse.github.io/blew/
+BASE_PATH: https://thearthouse.github.io/blew
 
 plugins:
   - jekyll-paginate
