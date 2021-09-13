@@ -33,8 +33,8 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://secure.gravatar.com/avatar/e86fa0938976c38907a302ecb208f011
 
-BASE_PATH: https://mizzakko.netlify.app
-url: https://mizzakko.netlify.app
+BASE_PATH: https://dermontyan.netlify.app
+url: https://dermontyan.netlify.app
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
