@@ -34,6 +34,7 @@ tags_path: tags.html
 # sidebar_background_image: https://secure.gravatar.com/avatar/e86fa0938976c38907a302ecb208f011
 
 BASE_PATH: https://bellyvoot.netlify.app
+url: https://bellyvoot.netlify.app
 plugins:
   - jekyll-paginate
 
