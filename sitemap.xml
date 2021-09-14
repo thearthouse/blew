@@ -7,8 +7,4 @@ layout: null
 <loc>{{ post.url | absolute_url | xml_escape }}</loc>
 <lastmod>{{ post.date | date_to_xmlschema}}</lastmod>
 </url>{% endfor %}
-<url>
-<loc>/productivity/2020/05/03/how-to-organize-your-learning-process-with-xmind-extended.html</loc>
-<lastmod>2020-05-03T00:00:00+00:00</lastmod>
-</url>
 </urlset>
